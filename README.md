@@ -14,13 +14,14 @@ My expertise spans a wide range of technologies, enabling me to work across diff
 #### Programming Languages
 * **Backend:** Python, Java, Kotlin, PHP, Ruby, Objective-C, Swift, Dart, Typescript, Rust
 * **Frameworks:** Ruby on Rails, Flutter
+* **Mobile:** Android, iOS
 
 #### Databases
 * **Relational:** SQL, PostgreSQL, MySQL, SQL Server
 * **NoSQL:** MongoDB
 
 #### Big Data & Artificial Intelligence
-* **Data Processing:** Apache Spark
+* **Data Processing:** Apache Spark, Pandas, Numpy, Sci-kit
 * **LLMs & NLP:** LangChain, Large Language Models (LLMs)
 
 #### No code platforms
